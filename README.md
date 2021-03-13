@@ -1,5 +1,5 @@
 # 2D Pose Estimation Project
-Pose estimation project implementing a convolution neural network constructed from the MPII human pose dataset to estimate human joints based off of video footage. I developed this program to gain a deeper understanding of how computer vision and machine learning can be levaraged to identify human poses to create a mobile motion capture pipeline for film, animation, and immersive development. 
+Pose estimation project implementing a convolution neural network constructed from the MPII human pose dataset to estimate human joints based off of video footage. I developed this program to gain a deeper understanding of how computer vision and machine learning can be leveraged to identify human poses to create a mobile motion capture pipeline for film, animation, and immersive development. 
 
 ![2D Pose Estimation with Smoothing Example](example.gif) 
 
